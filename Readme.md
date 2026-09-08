@@ -65,7 +65,7 @@ The dashboard provides insights into:
 
 ### 🦠 COVID-19 Dashboard
 
-![COVID Dashboard](Images/Covid%20dashboard.png)
+![COVID Dashboard](Images/covid%20dashboard.png)
 
 ### 📋 Project Information
 
