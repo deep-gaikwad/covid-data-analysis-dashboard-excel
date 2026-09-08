@@ -118,23 +118,28 @@ The data was prepared and analyzed in Excel before creating visualizations and t
 
 ---
 
-## 👨‍💻 Author
-
-**Deep Gaikwad**
-
-Aspiring Data Analyst
-
-**Skills:**  
-Excel | SQL | Python | Power BI | Data Analysis
-
----
-
 ## ⭐ Conclusion
 
 This project demonstrates how **Microsoft Excel can be used to transform raw COVID-19 data into an interactive and informative analytical dashboard**.
 
 It showcases practical skills in data preparation, analysis, visualization, and dashboard development.
 
+---
+## 👨‍💻 Author
+
+**Deep Gaikwad**
+
+🔗 GitHub: https://github.com/deep-gaikwad
+
+🔗 LinkedIn: https://www.linkedin.com/in/deepgaikwad/
+
+---
+
+**Skills:**  
+Excel | SQL | Python | Power BI | Data Analysis
+
+---
+
 Thank you for visiting this project! ⭐
 
-If you find this project useful, feel free to explore the repository.
+⭐ If you find this project useful, feel free to star the repository!
